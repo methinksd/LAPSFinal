@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "919155826416",
+    "project_id": "laps-final",
+    "storage_bucket": "laps-final.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:919155826416:android:075a45dde9cee260a56c35",
+        "android_client_info": {
+          "package_name": "com.example.lapsfinal"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "919155826416-oahb0kn4ned5gorsj7eg87n2lvl19s2f.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB7xy1_OK4l2U_ANwyViIZYXA_bbVEDPz0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "919155826416-oahb0kn4ned5gorsj7eg87n2lvl19s2f.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
